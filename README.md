@@ -4,6 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ![Screenshot 2022-11-22 at 4 49 52 PM](https://user-images.githubusercontent.com/17925504/203362620-eac15bc8-aca2-4e07-8a86-8c3536c9541a.png)
 
+![Screenshot 2022-11-22 at 4 51 08 PM](https://user-images.githubusercontent.com/17925504/203362649-f52b6689-c037-4e13-a6c1-854674d9a44f.png)
+
+![Screenshot 2022-11-22 at 4 51 18 PM](https://user-images.githubusercontent.com/17925504/203362653-0eb70909-6756-47b9-9d32-2a5ae6964a3b.png)
+
+![Screenshot 2022-11-22 at 4 51 30 PM](https://user-images.githubusercontent.com/17925504/203362655-5f5961df-7f73-4b17-b3a0-696d90426a72.png)
+
+
 
 ## Development server
 
