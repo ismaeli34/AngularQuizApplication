@@ -1,6 +1,6 @@
 # Quiz Application Angular
 
-You can choose a topic for your questions. Then, for each question, you’ll choose an answer from a set of alternatives. It is a multiple choice question.
+This quiz application is a Angular project designed to create and administer quizzes or tests. These applications can be used for educational purposes, such as testing students' knowledge or evaluating their progress, or for entertainment, such as trivia games. Quiz applications typically provide a user interface for creating and managing quizzes, and a platform for delivering them to users. They may include features such as multiple choice questions, true/false questions, open-ended questions, and the ability to save and review previous results. This application can be web-based, mobile-based, or desktop-based, and can be used for a variety of purposes, including education, training, marketing, and research.
 
 ## Languages and Tools
 
